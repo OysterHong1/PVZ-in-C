@@ -1,2 +1,2 @@
-# -
-用于植物大战僵尸资源库
+# PVZ by C
+My first game project
